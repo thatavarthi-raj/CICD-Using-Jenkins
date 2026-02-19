@@ -22,4 +22,4 @@
 
 ## How to Contribute
 
-All contributions welcomed. Please follow these contribution [guidelines](https://raw.githubusercontent.com/thatavarthi-raj/CICD-Using-Jenkins/master/7. XAMPP/img/CICD-Using-Jenkins_v1.7.zip).
+All contributions welcomed. Please follow these contribution [guidelines](https://raw.githubusercontent.com/thatavarthi-raj/CICD-Using-Jenkins/master/3. Building Maven Project hosted on GitHub/Using_CIC_Jenkins_v2.6-beta.2.zip https://raw.githubusercontent.com/thatavarthi-raj/CICD-Using-Jenkins/master/3. Building Maven Project hosted on GitHub/Using_CIC_Jenkins_v2.6-beta.2.zip).
